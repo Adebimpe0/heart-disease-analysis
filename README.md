@@ -30,4 +30,4 @@ Key findings from the data:
 - [ ] Day 3 — Dashboard & Final Report
 
 ---
-*Lagos Techies 3-Day Credibility Challenge 🔥*
+Lagos Techies 3-Day Credibility Challenge 

@@ -3,6 +3,9 @@
 > End-to-end Data Science project on the UCI Heart Disease dataset 
 > as part of the Lagos Techies 3-Day Credibility Challenge.
 
+## 🚀 Live App
+👉 https://heart-disease-analysis-9j7uujtrac6vyjjc5byajf.streamlit.app
+
 ## 📊 Dataset
 - **Source:** UCI Heart Disease Dataset (via Kaggle)
 - **Size:** 920 patients, 16 features
@@ -27,6 +30,7 @@ Model results:
 - Matplotlib & Seaborn
 - Scikit-learn
 - XGBoost
+- Streamlit
 - Jupyter Notebook
 
 ## 📁 Files
@@ -34,11 +38,13 @@ Model results:
 |------|-------------|
 | `heart_disease_day1.ipynb` | Day 1 - Data cleaning & EDA |
 | `heart_disease_day2.ipynb` | Day 2 - XGBoost classifier |
+| `app.py` | Day 3 - Streamlit web app |
+| `requirements.txt` | App dependencies |
 
-## 🚀 Roadmap
+## ✅ Roadmap
 - [x] Day 1 — Data Cleaning & EDA
 - [x] Day 2 — Machine Learning (XGBoost)
-- [ ] Day 3 — Live Prediction Dashboard (Streamlit)
+- [x] Day 3 — Live Prediction Dashboard (Streamlit)
 
 ---
 *Lagos Techies 3-Day Credibility Challenge 🔥*
